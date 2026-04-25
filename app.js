@@ -69,7 +69,7 @@ function deleteTask(id) {
 
 
 
-//  createTask('aliza pagal')
+//  createTask('created a task')
 //  viewTasks()
-//  editTask(1, 'aliza puri pagal ha')
+//  editTask(1, 'created a task 2')
 deleteTask(2)
